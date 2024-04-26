@@ -1,0 +1,6 @@
+{
+    "name": "acme/blog",
+    "require": {
+        "acme/hello-world": "dev-master"
+    }
+}
